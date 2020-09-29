@@ -1,5 +1,5 @@
-# 1. Background
-Kamu membuat sebuah function yang bisa mengubah sebuah string. Tugasnya adalah mengganti setiap kemunculan ke-N dari setiap karakter dari karakter array yang telah diberikan dengan karakter pengganti yang diberikan
+# Mengubah String
+Kamu membuat sebuah fungsi yang bisa mengubah sebuah string. Tugasnya adalah mengganti setiap kemunculan ke-N dari setiap karakter dari karakter array yang telah diberikan dengan karakter pengganti yang diberikan
 
 Fungsi akan mendapatkan 4 input. Input pertama adalah sebuah string, input kedua adalah sebuah integer dan yang ketiga adalah sebuah array. Input terakhir adalah sebuah karakter. Fungsi akan return 1 buah output string.
 
